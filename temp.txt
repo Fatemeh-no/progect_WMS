@@ -1,0 +1,11 @@
+watermelon     10      2
+orange          8      1
+apple           9      3
+banana         33      1
+Strawberries    7      2
+pineapple      20      3
+Mulberry        5      1
+mango          12      2
+peach           8      3
+Nectar         10      1
+endd            0      0

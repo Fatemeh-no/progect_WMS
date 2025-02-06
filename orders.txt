@@ -1,0 +1,4 @@
+show
+buy
+balance
+help
